@@ -1,0 +1,4 @@
+Yellow: #FFC300
+Light Purple: #E1DDF7
+Purple: #5A44BF
+
